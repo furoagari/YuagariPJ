@@ -7,3 +7,5 @@ Yuagari Poka Poka
 + そのブランチ上で自分の開発を行う
 + プルリク出す前に、自分のブランチにmasterをmargeして、コンフリクト解消しておく
 + プルリクを出す
+
+:spa:  :smile:
